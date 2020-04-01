@@ -1,6 +1,6 @@
 # Results
 
-We previously showed that the chirality index strongly correlated to the ratio of the normal hidgut laterality in the *Drosophila* embryos with various genotype [@Ishibashi2019 Figure 6A].
+We previously showed that the chirality index strongly correlated to the ratio of the normal hindgut laterality in the *Drosophila* embryos with various genotype [@Ishibashi2019 Figure 6A].
 To evaluate which the cell chirality contributes to the hindgut laterality, we mathematically reanalyzed our previous data.
 We scored the rotational direction of the hindgut as a laterality score ([@fig:fig2]).
 We fitted the logistic model with the chirality index as an explanatory valuable.
@@ -19,8 +19,8 @@ After the live imaging, we cultured the embryos at 25 for 3 hours and evaluated 
 In the *emc* mutants, the live cell chirality before the hindgut rotation significantly explained the rotational direction of the hindgut
 (Quasibinomial GLMM, two-tailed t-test, $p < 0.01$; [@fig:fig3] C).  <!-- Intercept: t(13) = -1.149, p = 0.27109; Chirality Index: t(13) = -3.256, p = 0.00625 -->
 Importantly, the logistic regression line of [@fig:fig2] significantly fit the data also of living embryos
-(Quasibinomial GLMM, likelihood ratio test, $p < 0.05$) <!-- Chisq(1) = 4.327, p = 0.0220359 -->
-, and it explained 72.5% of the total variation in the rotational direction of *emc* mutant hindgut. <!-- Rsq = 0.7246853 v.s. Rsq for best fit model = 0.8607872 -->
+(Quasibinomial GLMM, likelihood ratio test, $p < 0.05$), <!-- Chisq(1) = 4.327, p = 0.0220359 -->
+and it explained 72.5% of the total variation in the rotational direction of *emc* mutant hindgut. <!-- Rsq = 0.7246853 v.s. Rsq for best fit model = 0.8607872 -->
 
 \clearpage
 
