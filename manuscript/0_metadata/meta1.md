@@ -1,9 +1,7 @@
 ---
-title: "Title"
-author:
-- name: Tomoki Ishibashi
-  affiliation: 
-keywords: [keyword1, keyword2]
+title: Cell chirality is required for the determination of the rotational direction in the *Drosophila* hindgut
+author: Tomoki Ishibashi, Kenji Matsuno
+keywords: [Drosophila, cell chirality, left-right asymmetric development]
 titlepage: true
 toc-own-page: true
 fontsize: 14pt
