@@ -5,6 +5,9 @@
 :::
 
 ::: {custom-style="First Paragraph"}
+\(A) 
+\(B) 
+\(C) 
 Scale bars of inset images in B are 0.25 $\mu$m.
 :::
 
@@ -15,6 +18,8 @@ Scale bars of inset images in B are 0.25 $\mu$m.
 :::
 
 ::: {custom-style="First Paragraph"}
+\(A) 
+\(B) 
 :::
 
 \newpage
@@ -24,6 +29,9 @@ Scale bars of inset images in B are 0.25 $\mu$m.
 :::
 
 ::: {custom-style="First Paragraph"}
+\(A) 
+\(B) 
+\(C) 
 :::
 
 \clearpage
