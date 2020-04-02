@@ -21,11 +21,11 @@ When the hindgut did not rotate, we evaluated the laterality scorea as 0.5.
 ## Analysis of cell chirality index
 
 Cell chirality was analyzed as previously described [@Ishibashi2019].
-Briefly, we obtained the images of apical cell boundaries, which were detected by *byn>myr::GFP* signal, in the dorsal part of the embryonic hindgut just before its rotation (at stage 12) using a confocal microscope (LSM880, Carl Zeiss, Germany).
+Briefly, we obtained the images of apical cell boundaries, which were detected by Myr::GFP signal, in the dorsal part of the embryonic hindgut just before its rotation (at stage 12) using a confocal microscope (LSM880, Carl Zeiss, Germany).
 Based on these images, the angles ($\theta$) between the anterior-posterior axis of the hindgut tube and each cell boundary were determined by ImageJ Fiji v.2.0.0 [@Schindelin2012].
 To quantify the LR asymmetric slanting of the apical cell boundaries in the hindgut epithelial cells, a chirality index was calculated as $\frac{N_{R} - N_{L}}{N_{R} + N_{L}}$,
 where N~R~ was the number of boundaries with $0^{\circ} < \theta <  90^{\circ}$, and N~L~ was the number of boundaries with $-90^{\circ} < \theta <  0^{\circ}$, for each embryo.
-The chirality index was measured in a double-blind manner, in which the person analyzing the cell boundaries did not know the genotypes of the embryos.}
+The chirality index was measured in a double-blind manner, in which the person analyzing the cell boundaries did not know the rotational direction of the embryonic hindgut.
 
 ## Statistical analysis
 
