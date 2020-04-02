@@ -8,13 +8,15 @@ To visualize the cell membrane, *UAS-myr::GFP* was driven by *byn-Gal4*, a hindg
 Mutations on the second chromosome and third chromosome were balanced with *CyO, P{en1}wg^en11^* and *TM3, P{GAL4-twi.G}2.3, P{UAS-2xEGFP}AH2.3, Sb^1^ Ser^1^*, respectively.
 All genetic crosses were carried out at $25^{\circ} \mathrm{C}$ on a standard *Drosophila* culture medium.
 
-## Live Imaging
+## Live Imaging and laterality score
 
 Dechorionized *Drosophila* embryos were placed on grape juice agar plates.
 Early stage 12 embryos of the appropriate genotype were selected under florescence microscopy and mounted dorsal side up on double sticky tape on slide glasses.
 We added oxygen-permeable Halocarbon oil 27 (Sigma), and overlaid a coverslip of regular thickness over the embryos using 0.17-0.25 mm-thick coverslips as spacers.
 We imaged embryos with a scanning laser confocal microscope, LSM 880 (Carl Zeiss, Germany).
 After the live imaging, the embyors were cultured at $25^{\circ} \mathrm{C}$ for 3 hours, and evaluated the rotational direction of the hindgut.
+When the hindgut rotated in counter-clockwise direction or in clockwise direction, we scored 1 or 0, respectively as laterality score.
+When the hindgut did not rotate, we evaluated the laterality scorea as 0.5.
 
 ## Analysis of cell chirality index
 
