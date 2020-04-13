@@ -42,9 +42,15 @@ The coefficient of determination is shown as "$R^{2}$".
 :::
 
 ::: {custom-style="First Paragraph"}
-\(A) 
-\(B) 
-\(C) 
+\(A) Schematic showing the procedure for calculating the live chirality index and evaluation of the hindgut laterality.
+The live image of the epithelial cell boundary visualized by *UAS-myr::GFP* driven by *byn-Gal4* is shown.
+The chirality index of the live cell was calculated as described above.
+After 3 hours incubation, the laterality score was evaluated.
+\(B) Box plot of the live chirality index of the hindgut in wild-type and *emc* mutant.
+\(C) Graph showing the correlation between live cell chirality and the laterality score of the hindgut in *emc* mutant.
+Dotted line indicates the logistic model used in [@fig:fig2].
+The coefficient of determination of the model is shown as "$R^{2}$".
+"N" indicates the number of total embryos analyzed.
 :::
 
 \clearpage
