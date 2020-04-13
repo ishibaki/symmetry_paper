@@ -9,7 +9,7 @@ The chirality index significantly explained the hindgut laterality
 <!-- Intercept: t(8) = -4.042, p = 0.003723
 Chirality Index: t(8) = -5.992, p = 0.000326 -->
 
-To elucidate the relationship between the cell chirality and the LR-asymmetric morphology of the hindgut, we analyzed the chirality index in the live cells (live cell chirality) of the hindgut before rotation ([@fig:fig3] A).
+To elucidate the relationship between the cell chirality and the LR asymmetric morphology of the hindgut, we analyzed the chirality index in the live cells (live cell chirality) of the hindgut before rotation ([@fig:fig3] A).
 Wild-type cells had the left-tilted live cell chirality (chirality index $< 0$) as with fixed cells ([@fig:fig3] B).
 If the cell chirality induced the hindgut rotation, one would expect that the hindgut with inverse cell chirality should rotate to the inverse side of the wild-type [@Taniguchi2011; @Inaki2018].
 Thus, we analyzed the relationships between the direction of the hindgut rotation and the live cell chirality before the hindgut rotation in *emc* mutants which showed the randomization of the cell chirality [@Ishibashi2019].

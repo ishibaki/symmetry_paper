@@ -13,14 +13,14 @@ After rotation (gray), the cell chirality disappears.
 The angle between each boundary and the anterior-posterior (AP) axis of the hindgut is determined.
 LR represents the left-right axis of the hindgut.
 Each boundary is classified as a right-tilted boundary (orange) or left-tilted boundary (turquoise).
-The numbers of right-tilted ($N_{R}$) and left-tilted ($NL_{L}$) boundaries were counted, and the chirality index was calculated using the formula shown at the right side of the figure.
+The numbers of right-tilted ($N_{R}$) and left-tilted ($N_{L}$) boundaries were counted, and the chirality index was calculated using the formula shown at the right side of the figure.
 Scale bars of images in A are 0.25 $\mu$m.
 :::
 
 \newpage
 
 ::: {custom-style="First Paragraph"}
-![Cell chirality significantly fits to the hindgut LR-asymmetry of the embryos with various genotype](../figs/fig2.png){#fig:fig2}
+![Cell chirality significantly fits to the hindgut LR asymmetry of the embryos with various genotype](../figs/fig2.png){#fig:fig2}
 :::
 
 ::: {custom-style="First Paragraph"}
