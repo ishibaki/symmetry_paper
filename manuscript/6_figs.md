@@ -20,12 +20,19 @@ Scale bars of images in A are 0.25 $\mu$m.
 \newpage
 
 ::: {custom-style="First Paragraph"}
-![Cell chirality significantly fit to the hindgut LR-asymmetry of the embryos with various genotype](../figs/fig2.png){#fig:fig2}
+![Cell chirality significantly fits to the hindgut LR-asymmetry of the embryos with various genotype](../figs/fig2.png){#fig:fig2}
 :::
 
 ::: {custom-style="First Paragraph"}
-\(A) 
-\(B) 
+\(A) Schematic showing criteria for the laterality score.
+The hindgut that rotates counter-clockwise (upper) or clockwise (bottom) was scored as 1 or 0, respectively.
+The hindgut that does not rotate (middle) was scored as 0.5.
+\(B) Graph showing the correlation between cell chirality and the mean value of the laterality score.
+The data in our previous paper [@Ishibashi2019] was used for this analysis.
+The genotypes are shown in the right panel.
+Dotted line indicates the logistic model that most fit for the data.
+The coefficient of determination is shown as "$R^{2}$".
+<!-- The *p*-value for the logistic model compared with the null model is shown. -->
 :::
 
 \newpage
