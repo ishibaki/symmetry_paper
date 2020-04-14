@@ -16,26 +16,20 @@ Thus, these LR asymmetric shape of the cells is named as "cell chirality".
 From various *in vivo* researches, it has been implicated that the cell chirality is required for the LR asymmetric development of organs.
 *In vivo* cell chirality was first discovered in the *Drosophila* embryonic hindgut [@Taniguchi2011].
 The hindgut is the organ which first shows LR asymmetry by rotating $90^{\circ}$ counterclockwise as viewed from the posterior ([@fig:fig1] A) [@Hozumi2006].
-It has been shown that the hindgut itself generates the mechanical force to rotate LR asymmetrically, because the explanted wild-type hindgut normally rotated *in vitro* [@Inaki2018].
+It has been shown that the hindgut itself generates the LR asymmetric rotational force, because the explanted wild-type hindgut normally rotated *in vitro* [@Inaki2018].
 In the wild-type, before the directional rotation begins, the stereotypic cell chirality was observed in the apical surface of the hindgut epithelial cells with respect to the anterior-posterior axis of the hindgut [@Taniguchi2011; @Hatori2014; @Ishibashi2019; @Inaki2018].
-During the rotation, the cell chirality eventually disappears and the cells become symmetric after the rotation [@Taniguchi2011].
+During the rotation, the cell chirality eventually disappears and the cell shape becomes symmetrically after the rotation of the hindgut [@Taniguchi2011].
 Previously, a computer simulation showed that the dissolution of the cell chirality is sufficient to lead the LR asymmetric rotation of a virtual hindgut [@Taniguchi2011].
 It has also been reported that the cell chirality induces the LR asymmetric cellular movement, named as "cell sliding", and it involves in the LR asymmetric development of the hindgut [@Inaki2018].
-However, there are no report which confirms the cell chirality is required for the LR asymmetric development of organs.
+Not only in *Drosophila*, also in ...
 
-<!--
-In addition to cell chirality, various other cellular dynamic mechanisms contribute to the morphological changes of epithelial tissues, such as cell intercalation and cell deformation.
-Cell intercalation involves anisotropic cell-boundary remodeling (Bertet et al., 2004).
-For example, if cells intercalate in a medial direction, the tissue becomes narrower and elongates along the axis perpendicular to the medial direction (Honda et al., 2008; Tada and Heisenberg, 2012; Uriu et al., 2014).
-Polarized cell intercalation is important in convergent extension, which induces morphological changes in early embryogenesis, such as the germband extension in Drosophila and the dorsal mesoderm extension in zebrafish and Xenopus (Bertet et al., 2004; Shih and Keller, 1992).
-Convergent extension is also required for organogenesis.
-For example, tubular structures, such as the Drosophila trachea and hindgut and the vertebrate kidney and cochlea, elongate by convergent extension.
-Cell intercalation also contributes to LR asymmetric morphogenesis.
-For example, LR biased junctional remodeling induces the directional rotation of the Drosophila male genitalia (Sato et al., 2015a).
-Cell deformation is another mechanism that plays important roles in epithelial morphogenesis.
-During gastrulation and neurulation, the apical constriction of epithelial cells is important for invagination and tubular structure formation (Inoue et al., 2016; Munjal and Lecuit, 2014).
-Thus, one of these cellular dynamic mechanisms or an as-yet undescribed mechanism might be involved in the cell-chirality-driven hindgut rotation.
--->
+We have previously revealed the genetic mechanism regulating the cell chirality formation by usin *Drosophila* as a model system [@Ishibashi2019; @Taniguchi2011].
+The regulatory network composed of E and Id and the actomyosin system including MyoID and MyoIC are involved in the cell chirality.
+In the mutants of *E* and *MyoID*, *extra macrochaetae* (*emc*) and *Myosin31DF* (*Myo31DF*) in *Drosophila*, respectively, both the cell chirality and the laterality of the hindgut are defected [@Ishibashi2019].
+...
+Despite the existence of the evidences that the cell chirality tightly coulples with the LR asymmetry at the macroscopic scale, there are no report that cell chirality is required for the LR asymmetric development.
+
+Here, ...
 
 \clearpage
 
