@@ -23,10 +23,11 @@ Previously, a computer simulation showed that the dissolution of the cell chiral
 It has also been reported that the cell chirality induces the LR asymmetric cellular movement, named as "cell sliding", and it involves in the LR asymmetric development of the hindgut [@Inaki2018].
 Not only in *Drosophila*, also in ...
 
-We have previously revealed the genetic mechanism regulating the cell chirality formation by usin *Drosophila* as a model system [@Ishibashi2019; @Taniguchi2011].
-The regulatory network composed of E and Id and the actomyosin system including MyoID and MyoIC are involved in the cell chirality.
-In the mutants of *E* and *MyoID*, *extra macrochaetae* (*emc*) and *Myosin31DF* (*Myo31DF*) in *Drosophila*, respectively, both the cell chirality and the laterality of the hindgut are defected [@Ishibashi2019].
-...
+We have previously revealed the genetic mechanism regulating the cell chirality formation by using *Drosophila* as a model system [@Ishibashi2019; @Taniguchi2011].
+The regulatory network composed of E and Id and the actomyosin system including MyoID and MyoIC are involved in the cell chirality [@Ishibashi2019; @Okumura2015; @Hozumi2008].
+*Id* encodes class V HLH protein that inhibits E-box protein, bHLH transciptional factor, by forming heterodimer, which regulates cell differentiation-proliferation balance [@Wang2015a].
+In *Drosophila* embryos, the mutants of *extra macrochaetae* (*emc*), *Drosophila* orthologous gene of *Id*, showed the randomization of LR laterality in the hindgut and the cell chirality [@Ishibashi2019].
+Furthermore, *Myosin31DF* (*Myo31DF*), orthologue of *MyoID*, is also involved in the cell chirality formation and the normal LR asymmetric development of the hindgut and the genital disk [@Ishibashi2019; @Inaki2018; @Hatori2014; @Taniguchi2011; @Sato2015; @Speder2006].
 Despite the existence of the evidences that the cell chirality tightly coulples with the LR asymmetry at the macroscopic scale, there are no report that cell chirality is required for the LR asymmetric development.
 
 Here, ...
