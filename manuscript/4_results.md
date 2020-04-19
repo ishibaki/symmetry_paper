@@ -5,7 +5,7 @@ To evaluate which the cell chirality contributes to the hindgut laterality, we m
 We scored the rotational direction of the hindgut as a laterality score ([@fig:fig2]).
 We fitted the logistic model with the chirality index as an explanatory valuable.
 The chirality index significantly explained the hindgut laterality
-(Quasibinomial generalized linear mixed model (GLMM), two-tailed t-test, $p < 0.001$; [@fig:fig2] B; [@tbl:tbl1]).
+(Quasibinomial generalized linear model (GLM), two-tailed t-test, $p < 0.001$; [@fig:fig2] B; [@tbl:tbl1]).
 <!-- Intercept: t(8) = -4.042, p = 0.003723
 Chirality Index: t(8) = -5.992, p = 0.000326 -->
 
@@ -17,9 +17,9 @@ The live cell chirality was not significantly different between in the *emc^AP6^
 (Two-tailed t-test, $p = 0.07409$; [@fig:fig3] B).
 After the live imaging, we cultured the embryos at 25 for 3 hours and evaluated the rotational direction of the hindgut.
 In the *emc* mutants, the live cell chirality before the hindgut rotation significantly explained the rotational direction of the hindgut
-(Quasibinomial GLMM, two-tailed t-test, $p < 0.01$; [@fig:fig3] C; [@tbl:tbl2]).
+(Quasibinomial GLM, two-tailed t-test, $p < 0.01$; [@fig:fig3] C; [@tbl:tbl2]).
 Importantly, the logistic regression line of [@fig:fig2] significantly fit the data also of living embryos
-(Quasibinomial GLMM, likelihood ratio test, $\chi^{2}_{1} = 4.327$, $p < 0.05$),<!-- p = 0.0220359 -->
+(Quasibinomial GLM, likelihood ratio test, $\chi^{2}_{1} = 4.327$, $p < 0.05$),<!-- p = 0.0220359 -->
 and it explained 72.5% of the total variation in the rotational direction of *emc* mutant hindgut ([@tbl:tbl3]).
 
 \clearpage
