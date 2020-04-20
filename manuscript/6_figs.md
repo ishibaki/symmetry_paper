@@ -8,7 +8,7 @@
 \(A) Rotation of the *Drosophila* embryonic hindgut (orange) visualized by *UAS-myr-GFP* (cell membrane) driven by *byn-Gal4*.
 In the wild-type, the hindgut rotates counter-clockwise and it exhibits a rightward pointing hook shape.
 \(B) Before rotation (orange), the apical boundaries of the wild-type hindgut epithelial cells tend to slant to the left, the normal cell chirality.
-After rotation (gray), the cell chirality disappears.
+After rotation (grey), the cell chirality disappears.
 \(C) Schematic summarizing the procedure used to calculate the chirality index.
 The angle between each boundary and the anterior-posterior (AP) axis of the hindgut is determined.
 LR represents the left-right axis of the hindgut.
@@ -20,7 +20,7 @@ Scale bars of images in A are 0.25 $\mu$m.
 \newpage
 
 ::: {custom-style="First Paragraph"}
-![Cell chirality significantly fits to the hindgut LR asymmetry of the embryos with various genotype](../figs/fig2.png){#fig:fig2}
+![Cell chirality significantly fits the hindgut LR asymmetry of the embryos with various genotype](../figs/fig2.png){#fig:fig2}
 :::
 
 ::: {custom-style="First Paragraph"}
@@ -45,7 +45,7 @@ The coefficient of determination is shown as "$R^{2}$".
 \(A) Schematic showing the procedure for calculating the live chirality index and evaluation of the hindgut laterality.
 The live image of the epithelial cell boundary visualized by *UAS-myr::GFP* driven by *byn-Gal4* is shown.
 The chirality index of the live cell was calculated as described above.
-After 3 hours incubation, the laterality score was evaluated.
+After 3 hours of incubation, the laterality score was evaluated.
 \(B) Box plot of the live chirality index of the hindgut in wild-type and *emc* mutant.
 \(C) Graph showing the correlation between live cell chirality and the laterality score of the hindgut in *emc* mutant.
 Dotted line indicates the logistic model used in [@fig:fig2].
