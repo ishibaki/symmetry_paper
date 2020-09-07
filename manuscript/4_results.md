@@ -13,8 +13,8 @@ To elucidate the relationship between the cell chirality and the LR asymmetric m
 Wild-type cells had the left-tilted live cell chirality (chirality index $< 0$) as with fixed cells ([@fig:fig3] B).
 If the cell chirality induced the hindgut rotation, one would expect that the hindgut with inverse cell chirality should rotate to the inverse side of the wild-type [@Taniguchi2011; @Inaki2018].
 Thus, we analyzed the relationships between the direction of the hindgut rotation and the live cell chirality before the hindgut rotation in *emc* mutants which showed the randomization of the cell chirality [@Ishibashi2019].
-The live cell chirality was not significantly different between in the *emc^AP6^* mutants and the wild-type.
-(Two-tailed t-test, $p = 0.07409$; [@fig:fig3] B).
+Compared with wild-type, the live cell chirality was marginally significantly increased in the *emc^AP6^* mutants.
+(Two-tailed t-test, $p = 0.069217$; [@fig:fig3] B).
 After the live imaging, we cultured the embryos at 25 for 3 hours and evaluated the rotational direction of the hindgut.
 In the *emc* mutants, the live cell chirality before the hindgut rotation significantly explained the rotational direction of the hindgut
 (Quasibinomial GLM, two-tailed t-test, $p < 0.01$; [@fig:fig3] C; [@tbl:tbl2]).
