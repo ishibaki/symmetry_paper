@@ -4,7 +4,7 @@ Left-right (LR) asymmetry is the basic body plan in bilaterians.
 It has been widely known that internal organs of bilaterians are often LR asymmetric in morphology.
 The mechanisms of LR asymmetric development have been well studied in vertebrates [@Blum2018; @Hirokawa2006; @Nakamura2012; @Levin2005; @Yoshiba2014].
 For example, in mice, motile cilia locating in the node rotates clockwise and induces a leftward flow of extra-embryonic fluid, which first breaks the LR symmetry [@Nonaka1998].
-This phenomenon is called as "nodal flow" and it has been reported that the nodal flow induces left-side-specific gene expressions required for the LR asymmetric development [@Nonaka2002; @Nonaka1998; @Okada1999].
+This phenomenon is called as "nodal flow" and it has been reported that the nodal flow induces left-side-specific gene expressions required for the LR asymmetric development [@Nonaka2002; @Nonaka1998; @Takeda1999].
 In different classes from Mammalia, Nodal-independent mechanisms for the LR-asymmetric organ morphogenesis were also reported.
 In chicks or fish, it was found that the LR asymmetric looping of the heart develops by organ-intrinsic mechanism, which indicates that this morphogenesis was not caused by LR asymmetric gene expression (refs).
 
