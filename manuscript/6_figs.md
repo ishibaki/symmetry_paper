@@ -38,7 +38,7 @@ The coefficient of determination is shown as "$R^{2}$".
 \newpage
 
 ::: {custom-style="First Paragraph"}
-![Live cell chirality predicts the rotational direction of the hindgut](../figs/fig3.png){#fig:fig3}
+![Live cell chirality predicts the rotational direction of the hindgut](../figs/fig3_1.png){#fig:fig3}
 :::
 
 ::: {custom-style="First Paragraph"}
