@@ -1,14 +1,14 @@
 # Figures and Tables {label=""}
 
 ::: {custom-style="First Paragraph"}
-![The *Drosophila* embryonic hindgut rotates $90^{\circ}$ counterclockwise.](../figs/fig1.png){#fig:fig1}
+![The *Drosophila* embryonic hindgut rotates $90^\circ$ counterclockwise.](../figs/fig1.png){#fig:fig1}
 :::
 
 ::: {custom-style="First Paragraph"}
 \(A) Rotation of the *Drosophila* embryonic hindgut (orange) visualized by *UAS-myr-GFP* (cell membrane) driven by *byn-Gal4*.
 In the wild-type, the hindgut rotates counter-clockwise and it exhibits a rightward pointing hook shape.
 \(B) Before rotation (orange), the apical boundaries of the wild-type hindgut epithelial cells tend to slant to the left, the normal cell chirality.
-After rotation (grey), the cell chirality disappears.
+After rotation (gray), the cell chirality disappears.
 \(C) Schematic summarizing the procedure used to calculate the chirality index.
 The angle between each boundary and the anterior-posterior (AP) axis of the hindgut is determined.
 LR represents the left-right axis of the hindgut.
@@ -20,7 +20,7 @@ Scale bars of images in A are 0.25 $\mu$m.
 \newpage
 
 ::: {custom-style="First Paragraph"}
-![Cell chirality significantly fits the hindgut LR asymmetry of the embryos with various genotype](../figs/fig2.png){#fig:fig2}
+![Cell chirality significantly fits to the hindgut LR asymmetry of the embryos with various genotype](../figs/fig2.png){#fig:fig2}
 :::
 
 ::: {custom-style="First Paragraph"}
@@ -38,7 +38,7 @@ The coefficient of determination is shown as "$R^{2}$".
 \newpage
 
 ::: {custom-style="First Paragraph"}
-![Live cell chirality predicts the rotational direction of the hindgut](../figs/fig3_1.png){#fig:fig3}
+![Live cell chirality predicts the rotational direction of the hindgut](../figs/fig3_2.png){#fig:fig3}
 :::
 
 ::: {custom-style="First Paragraph"}
@@ -48,8 +48,9 @@ The chirality index of the live cell was calculated as described above.
 After 3 hours of incubation, the laterality score was evaluated.
 \(B) Box plot of the live chirality index of the hindgut in wild-type and *emc* mutant.
 \(C) Graph showing the correlation between live cell chirality and the laterality score of the hindgut in *emc* mutant.
+[Solid line indicates the best fitted logistic model]{.insertion author="Tomoki Ishibashi" date="2020-09-20T01:05:38Z"}.
 Dotted line indicates the logistic model used in [@fig:fig2].
-The coefficient of determination of the model is shown as "$R^{2}$".
+The coefficient of determination of each model is shown as "$R^{2}$".
 "N" indicates the number of total embryos analyzed.
 :::
 
@@ -70,4 +71,5 @@ The coefficient of determination of the model is shown as "$R^{2}$".
 6_figs.md
 7_references.md
 8_supplements.md
+9_acknowledgements.md
 -->
