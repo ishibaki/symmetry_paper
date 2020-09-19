@@ -3,9 +3,9 @@
 ## A logistic model significantly explained the correlation between cell chirality and the LR direction of hindgut rotation
 
 The *Drosophila* hindgut is first formed as a bilaterally symmetric invagination whose anterior part curves ventrally at early stage 12 ([@fig:fig1]A most left panel) [@Hozumi2006].
-Then, it gradually rotates counterclockwise 90 degree as view from the posterior ([@fig:fig1]A, middle two panels).
+Then, it gradually rotates counterclockwise 90 degrees as a view from the posterior ([@fig:fig1]A, middle two panels).
 Consequently, this rotation makes the hindgut curved towards the right at the end of stage 13 ([@fig:fig1]A, most right panel).
-The hindgut epithelium has typical apical-basal polarity, and the inner surface of the hindgut corresponds to the apical surface.
+The hindgut epithelium has a typical apical-basal polarity, and the inner surface of the hindgut corresponds to the apical surface.
 Before the rotation of the hindgut, cell chirality of the hindgut epithelial cells is detected in the shape of their apical surface, as the frequency of cell boundaries that slant left or right with respect to the anterior-posterior axis of the hindgut tube shows deviations according to the genetic conditions [@Ishibashi2019].
 For example, cell-boundaries slanting to the left appeared more often than that of the right in wild type ([@fig:fig1]B, left).
 However, such LR bias found in the angle of cell boundaries are dissolved after the completion of the hindgut rotation ([@fig:fig1]B, right).
@@ -16,7 +16,7 @@ Then, the total numbers of Right and Left were represented by N-Right ($N_{R}$) 
 
 We previously showed that the chirality index strongly correlated with the ratio of the normal hindgut laterality in the *Drosophila* embryos with various genotype [@Ishibashi2019].
 To investigate a causal association between the cell chirality and the direction of the hindgut rotation, we here analyzed the mathematical characteristics of the correlation between the chirality index and the rotational direction of the hindgut.
-We scored the rotational direction of the hindgut as a "laterality score", in which the hindgut of normal LR asymmetry, non-laterality (bilateral symmetry), and inverse LR asymmetry were scored 1, 0.5, and 0, respectively ([@fig:fig2]A).
+We scored the rotational direction of the hindgut as a "laterality score", in which the hindgut of normal LR asymmetry, non-laterality (bilateral symmetry), and inverse LR asymmetry was scored 1, 0.5, and 0, respectively ([@fig:fig2]A).
 The mean of the laterality score was calculated in embryos with each genotype ([@fig:fig2]B, left).
 Besides the genetic conditions analyzed in the previous study, we examined ten different genetic conditions in total to study the correlation between the chirality index and the mean of the laterality score ([@fig:fig2]B) [@Ishibashi2019].
 As the newly added conditions, double mutant embryos of *da^10^* and *emc^AP6^* (*da^10^; emc^AP6^*) were analyzed ([@fig:fig2]B).
@@ -31,7 +31,7 @@ Chirality Index: t(8) = -5.992, p = 0.000326 -->
 
 ## Chirality index predicts the LR directions of future hindgut rotation in live embryos
 
-Considering that cell chirality appears before the hindgut rotation, significant correlation between the chirality index and the mean of laterality score suggested that the average of cell chirality determines the LR direction of the hindgut rotation in each embryo.
+Considering that cell chirality appears before the hindgut rotation, the significant correlation between the chirality index and the mean of laterality score suggested that the average of cell chirality determines the LR direction of the hindgut rotation in each embryo.
 In this case, the chirality index in each live embryo should predict the left or right directionality of the future hindgut rotation afterwards.
 To test this possibility, we developed a new procedure to obtain the chirality index in the hindgut of live embryos and then determine the subsequent LR directionality of the hindgut rotation.
 In this system, the apical cell boundaries of the hindgut epithelium were visualized in live embryos at [early]{.insertion author="Tomoki Ishibashi" date="2020-09-20T00:06:34Z"} stage 12 under a confocal laser microscope, and these embryos were continuingly cultured another three hours ([@fig:fig3]A).
@@ -39,7 +39,7 @@ At that point, the rotation of the hindgut was completed under these conditions 
 The chirality index obtained from this procedure was designated as "live chirality index," and the laterality score of each embryo was marked 1, 0.5, and 0, as the hindgut subsequently showed normal LR asymmetry, non-laterality (bilateral symmetry), and inverse LR asymmetry, respectively.
 
 To investigate whether the live chirality index directs the rotational direction of the hindgut, we conducted a statistical correlation analysis between the live chirality index and laterality score of each embryo.
-We found that the LR-randomization phenotypes of *emc^AP6^* homozygote was appropriate for this purpose, because the hindgut of these embryos shows normal and inverse LR asymmetry as well as non-laterality, whereas the overall structure of the hindgut is virtually normal besides the defects in its LR asymmetry [@Ishibashi2019].
+We found that the LR-randomization phenotypes of *emc^AP6^* homozygote were appropriate for this purpose, because the hindgut of these embryos shows normal and inverse LR asymmetry as well as non-laterality, whereas the overall structure of the hindgut is virtually normal besides the defects in its LR asymmetry [@Ishibashi2019].
 To evaluate the consistency between the chirality indexes obtained from fixed and live embryos, we analyzed the mean of live chirality indexes in wild-type and *emc^AP6^* homozygous embryos before the hindgut rotation.
 The [mean]{.insertion author="Tomoki Ishibashi" date="2020-09-20T00:12:02Z"} live chirality indexes of wild-type and *emc^AP6^* homozygous embryos were $-0.12 \pm 0.04$ and $-0.02 \pm 0.03$, respectively, which were very similar to those of fixed embryos as reported before (wild-type, $-0.11 \pm 0.03$; *emc^AP6^* homozygote, $0.01 \pm 0.02$) [@Ishibashi2019].
 We found that each individual embryo of *emc^AP6^* homozygote showed a broad range of live chirality indexes as compared with that of wild-type, although the mean values of live chirality indexes were not significantly different between in the *emc^AP6^* mutants and the wild-type (Two-tailed t-test, $p = 0.069217$) ([@fig:fig3]B) [p-valueを修正済です]{.comment-start author="Tomoki Ishibashi" date="2020-09-20T00:42:12Z"}[]{.comment-end}.
@@ -59,7 +59,7 @@ Importantly, the logistic regression model [(dotted line)]{.insertion author="To
 (Quasibinomial GLM, likelihood ratio test, $\chi^{2}_{1} = 4.327$, $p < 0.05$),<!-- p = 0.0220359 -->
 and it explained 72.5% of the total variation in the rotational direction of *emc* mutant hindgut ([@tbl:tbl3]).
 These results suggested that the live chirality index directs the rotational direction of the hindgut in each embryo.
-Based on these findings, we concluded that the enantiomorphic states of mean cell chirality determines the LR asymmetry of the hindgut rotation.
+Based on these findings, we concluded that the enantiomorphic states of mean cell chirality determine the LR asymmetry of the hindgut rotation.
 
 \clearpage
 
