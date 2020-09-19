@@ -23,7 +23,7 @@ reader = -f markdown\
 
 # general arguments
 writer = --bibliography ~/.pandoc/library.bib\
-		 --csl ~/.pandoc/apa-2.csl\
+		 --csl ~/.pandoc/nature.csl\
 		 -V papersize=a4\
 		 --filter pandoc-crossref\
 		 -N\
