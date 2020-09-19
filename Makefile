@@ -30,8 +30,10 @@ writer = --bibliography ~/.pandoc/library.bib\
 
 # docx specific arguments
 docx = -t docx\
-	   --reference-doc ~/.pandoc/reference.docx\
-	   --filter pandoc-docx-pagebreakpy\
+	   --reference-doc ~/.pandoc/reference_matsuuralab.docx\
+	   -V author=""\
+	   --lua-filter /usr/local/bin/pagebreak.lua\
+	   # --filter pandoc-docx-pagebreakpy\
 
 # PDF specific arguments
 pdf = -t latex\

@@ -21,6 +21,12 @@
 
 :Logistic regression analyses between the laterality score and live chirality index in *emc^AP6^*. {#tbl:tbl3}
 
+\clearpage
+
+\mbox{}
+
+\newpage
+
 <!--
 0_metadata/meta0.md
 0_metadata/meta1.md
@@ -32,4 +38,5 @@
 6_figs.md
 7_references.md
 8_supplements.md
+9_acknowledgements.md
 -->

@@ -19,4 +19,5 @@
 6_figs.md
 7_references.md
 8_supplements.md
+9_acknowledgements.md
 -->

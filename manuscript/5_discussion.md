@@ -2,7 +2,7 @@
 
 In this paper, we demonstrated that the cell chirality is essential for the determination of LR asymmetry of the hindgut ([@fig:fig2]; [@fig:fig3]).
 First, we showed the LR asymmetry of the hindgut tightly couples with the cell chirality ([@fig:fig2]B).
-Our generalized linear model with the chirality index as an explanatory variable significantly  our data ([@fig:fig2]B).
+Our generalized linear model with the chirality index as an explanatory variable significantly fit to our data ([@fig:fig2]B).
 This result means that the laterality of the hindgut was statistically explained even only by the cell chirality.
 Next, We found that the live cell chirality also couples with the LR asymmetry of the hindgut ([@fig:fig3]C).
 We used *emc* mutants to "disturb" the cell chirality formation and examined which the abnormally formed cell chirality induces the defects in the LR asymmetry of the hindgut.
@@ -15,7 +15,7 @@ Therefore, the mechanism by which the cell chirality induces the LR asymmetry of
 We previously suggested that the cell chirality generates the LR asymmetric mechanical force, which rotates the hindgut LR asymmetrically [@Taniguchi2011; @Inaki2018].
 *MyoID* is known as a key factor to form the stereotypic cell chirality [@Lebreton2018; @Taniguchi2011; @Sato2015].
 We supposed that in wild-type, MyoID generates the normal cell chirality and almost all of the hindgut cells have the stereotypic cell chirality, which rotates the hindgut to the genetically determined direction.
-Here we confirmed that the direction of the cell chirality in the living cells is the same as that in the fixed wild-type cells ([@fig:fig3]B).
+Here we confirmed that the direction of the cell chirality in the living cells is the same of that in the fixed wild-type cells ([@fig:fig3]B).
 On the other hand, in the mutants that show randomized cell chirality such as *emc*, the rotational direction of the hindgut depends on the stochastically formed cell chirality, thus the LR asymmetry of the hindgut might be disrupted.
 
 It has been studied well how organs are arranged asymmetrically, but little is known about how organs shape asymmetrical morphologies.
@@ -40,4 +40,5 @@ To understand how the organs form the stereotypic LR asymmetric shape, we should
 6_figs.md
 7_references.md
 8_supplements.md
+9_acknowledgements.md
 -->

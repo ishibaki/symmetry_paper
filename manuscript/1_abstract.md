@@ -1,5 +1,9 @@
 # Abstract
 
+これまでは、パラレル関係とモデル。
+
+相関を実証
+
 \clearpage
 
 \mbox{}
@@ -17,4 +21,5 @@
 6_figs.md
 7_references.md
 8_supplements.md
+9_acknowledgements.md
 -->

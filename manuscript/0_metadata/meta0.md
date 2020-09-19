@@ -1,4 +1,4 @@
-% Cell chirality is required for the determination of the rotational direction in the *Drosophila* hindgut
-% Tomoki Ishibashi, Kenji Matsuno
+% Cell chirality determines the left- or right-handed rotational directions of embryonic hindgut in *Drosophila*
+% Tomoki Ishibashi, Mikiko Inaki, Kenji Matsuno
 % 
 
