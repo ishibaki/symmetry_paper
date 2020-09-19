@@ -3,19 +3,21 @@
 ## Fly lines
 
 *Canton-S* was used as wild-type.
-To analyze the relationship between live cell chirality and the hindgut rotational direction, *emc^AP6^*, an amorphic allele of *emc*, was used [@Ellis1994, Bloomington #36544].
-To visualize the cell membrane, *UAS-myr::GFP* was driven by *byn-Gal4*, a hindgut epithelium-specific driver [@Hozumi2006].
+[以前のpaper(Ishibashi2019)で使った系統も全部書くことにしました]{.comment-start author="Tomoki Ishibashi" date="2020-09-20T00:24:13Z"}The following mutants were used[]{.comment-end}: *emc^AP6^*, an amorphic allele (Bloomington #36544; [@Ellis1994]); *da^10^*, an amorphic allele (Bloomington #5531; [@Wulbeck1994]); and *MyoID^K2^*, an amorphic allele [@Petzoldt2012].
+The following UAS lines were used: *UAS-emc::GFP* [@Popova2011]; *UAS-da* (Bloomington #51669; [@Giebel1997]); *UAS-MyoIC* [@Hozumi2006]; *UAS-MyoID::mRFP* [@Hatori2014]; and *UAS-myr::GFP* [@Pfeiffer2012].
+The following *Gal4*-driver lines were used: *NP2432* (Kyoto DGRC #104201; [@Hayashi2002]) for the analysis of fixed cell chirality index ,and *byn-Gal4* [@Hozumi2006] for the analysis of live cell chirality index.
 Mutations on the second chromosome and third chromosome were balanced with *CyO, P{en1}wg^en11^* and *TM3, P{GAL4-twi.G}2.3, P{UAS-2xEGFP}AH2.3, Sb^1^ Ser^1^*, respectively.
 All genetic crosses were carried out at $25^{\circ} \mathrm{C}$ on a standard *Drosophila* culture medium.
 
 ## Live Imaging and laterality score
 
+To visualize the cell membrane, *UAS-myr::GFP* was driven by *byn-Gal4*.
 Dechorionized *Drosophila* embryos were placed on grape juice agar plates.
 Early stage 12 embryos of the appropriate genotype were selected under fluorescence microscopy and mounted dorsal side up on double sticky tape on slide glasses.
 We added oxygen-permeable Halocarbon oil 27 (Sigma, USA), and overlaid a coverslip of regular thickness over the embryos using 0.17-0.25 mm-thick coverslips as spacers.
 We imaged embryos with a scanning laser confocal microscope, LSM 880 (Carl Zeiss, Germany).
-After the live imaging, the embryors were cultured at $25^{\circ} \mathrm{C}$ for 3 hours and evaluated the rotational direction of the hindgut.
-When the hindgut rotated in a counter-clockwise direction or clockwise direction, we scored 1 or 0, respectively as laterality score.
+After the live imaging, the embryos were cultured at $25^{\circ} \mathrm{C}$ for 3 hours and evaluated the rotational direction of the hindgut.
+When the hindgut rotated in counter-clockwise direction or in clockwise direction, we scored 1 or 0, respectively as laterality score.
 When the hindgut did not rotate, we evaluated the laterality score as 0.5.
 
 ## Analysis of cell chirality index
@@ -52,4 +54,5 @@ Graphs were prepared using Matplotlib v.3.0.3 in Python v.3.6.4 [@Rossum1995; @H
 6_figs.md
 7_references.md
 8_supplements.md
+9_acknowledgements.md
 -->
