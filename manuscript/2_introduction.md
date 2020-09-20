@@ -7,7 +7,7 @@ For example, in mice, motile cilia locating in the node rotates clockwise and in
 This phenomenon is called as "nodal flow" that subsequently induces the left-side-specific expression of genes, such as *Nodal* and *Lefty*, required for the LR asymmetric development [@Nonaka2002; @Nonaka1998; @Takeda1999].
 The mechanism of the LR symmetry breaking has evolutionarily diverged.
 For example, in reptile and chick, the nodal flow-independent mechanism of the LR-symmetry breaking were reported [@Kajikawa2020; @Tabin2005] [Tabinの引用あってますか?]{.comment-start author="Tomoki Ishibashi"
-date="2020-09-19T23:35:00Z"}[]{.comment-end}.<!--あってる?-->
+date="2020-09-19T23:35:00Z"}[]{.comment-end}.
 In invertebrates, the chirality of cells (cell chirality) contributes to their LR asymmetric development [@Inaki2016; @Inaki2018a].
 For example, in snails and nematodes, the chirality of blastomeres at the initial stage determine the subsequent LR asymmetric arrangement of them, which consequently directs the LR asymmetry of their whole bodies [@Kuroda2009; @Naganathan2014].
 
@@ -20,29 +20,22 @@ Considering the apical-basal polarity of the hindgut epithelial cells, the three
 During the rotation, the cell chirality eventually dissolved so that the cell shape becomes symmetrically after the rotation of the hindgut [@Taniguchi2011].
 Cooperative studies between computer simulations and image analysis revealed that the dissolution of the cell chirality induces "cell sliding," which leads to the LR asymmetric rotation of the hindgut epithelial tube [@Taniguchi2011; @Inaki2018].
 Contributions of cell chirality were reported in other LR asymmetric organs of *Drosophila*, suggesting that cell chirality plays general roles in the LR asymmetric development in this species [@Sato2015; @Speder2006; @Coutelis2013; @Gonzalez-Morales2015].
+Not only in snails, nematodes, and *Drosophila*, but also in Chordata, such as chicken and Larvaceans, the cell chirality was observed and suggested to be involved in the LR asymmetric development of these species [@Ray2018; @Onuma2020].
+In addition to the cell chirality observed *in vivo* during development, various cultured cells from *Dictyostelium* to human demonstrate intrinsic chirality in their structure and movement [@Chen2012; @Tamada2010; @Tee2015; @Wan2011; @Xu2007].
+Thus cell chirality is widely observed property of eukaryotic cells.
 
-ここまで
+Using *Drosophila* as a model system, genetic mechanisms underlying the formation of cell chirality has been studied [@Ishibashi2019; @Taniguchi2011; @Gonzalez-Morales2015].
+*MyosinID* (*MyoID*), a Myosin I family gene and also called *Myosin31DF*, has an activity to induce dextral cell chirality, so that the loss-of-function mutations of *MyoID* resulted in the sinistral cell chirality and the LR-inversion of various organs demonstrating LR asymmetry, including the embryonic hindgut [@Hatori2014; @Inaki2018; @Ishibashi2019; @Sato2015; @Speder2006; @Taniguchi2011; @Gonzalez-Morales2015].
+*MyosinIC* (*MyoIC*), also called *Myosin61F* and belonging to Myosin I family, bears an activity to induce sinistral cell chirality, which leads to the LR inversion of various organs with handedness upon its overexpression [@Hozumi2006; @Hozumi2008; @Okumura2015].
+Besides these Myosin I family genes, we previously found that the loss-of function mutations of *extra macrochaetae* (*emc*) gene, the *Drosophila* ortholog of *Id*, shows the randomization of the hindgut handedness [@Ishibashi2019].
+*Id* encodes class V HLH protein that inhibits E-box protein, a class of bHLH transcriptional factor such as Daughterless (Da) in *Drosophila*, by forming heterodimer, which regulates cell differentiation-proliferation balance [@Wang2015a].
+We found the *MyoID* functions downstream of or parallel to *emc* in the cell chirality formation.
+However, although genetic mechanisms of cell chirality formation began to be understood, the causal relationship between the cell chirality and hindgut rotation was predicted only on apparent concordance between the states of cell chirality and the direction of the hindgut rotation in various mutants and on the results of computer simulation recapitulating the rotation of the model gut tube driven by the dissolution of cell chirality [@Taniguchi2011; @Inaki2018].
+Therefore, the validity of such cause and effect relationship has not been addressed.
 
-Not only in *Drosophila*, also in other organisms, the cell chirality can be observed and it is involved in the LR asymmetric development.
-In *Lymnaea* and *Caenorhabditis*, the cell shape of the blastomere is chiral, which associates with the subsequent LR asymmetric development [@Kuroda2009; @Shibazaki2004; @Wood1991; @Bergmann2003].
-Recently, it has been reported that the cell chirality underlies the formation of the LR asymmetry in Chordata, chicken and Larvaceans [@Ray2018; @Onuma2020].
-Thus, the cell chirality is a widely conserved property of cells, and it was supposed that the cell chirality regulates LR asymmetric development generally.
-
-We have previously revealed the genetic mechanism regulating the cell chirality formation by using *Drosophila* as a model system [@Ishibashi2019; @Taniguchi2011].
-The regulatory network composed of E and Id and the actomyosin system including MyoID and MyoIC are involved in the cell chirality [@Ishibashi2019; @Okumura2015; @Hozumi2008].
-*Id* encodes class V HLH protein that inhibits E-box protein, bHLH transcriptional factor, by forming heterodimer, which regulates cell differentiation-proliferation balance [@Wang2015a].
-In *Drosophila* embryos, the mutants of *extra macrochaetae* (*emc*), *Drosophila* an orthologous gene of *Id*, showed the randomization of LR laterality in the hindgut and the cell chirality [@Ishibashi2019].
-Furthermore, *Myosin31DF* (*Myo31DF*), the orthologue of *MyoID*, is also involved in the cell chirality formation and the normal LR asymmetric development of the hindgut and the genital disk [@Ishibashi2019; @Inaki2018; @Hatori2014; @Taniguchi2011; @Sato2015; @Speder2006].
-Despite the existence of the evidence that the cell chirality tightly couples with the LR asymmetry at the macroscopic scale, there are no reports that cell chirality is required for the LR asymmetric development.
-
-Here, we mathematically analysed which the cell chirality regulates the LR asymmetric morphological development of the hindgut in *Drosophila*.
-Furthermore, we performed live-imaging of the embryonic hindgut with the randomized cell chirality to confirm the disturbance of the cell chirality induces the LR asymmetric defects in the hindgut.
-Our study first proved that the cell chirality is required for the LR asymmetric development of the organ.
-
-Recently, the existence of the LR asymmetric property has been reported not only in the organ morphology but also at the cellular level [@Chen2012; @Tamada2010; @Tee2015; @Wan2011; @Xu2007].
-Many mammalian cell lines seeded on a micropattern tilt unidirectionally and change the cellular shape to be LR asymmetric (refs).
-Considering that the cells have apico-basal polarity, the 3D structure of the LR asymmetric cells cannot be superimposed onto their mirror image.
-Thus, these LR asymmetric shape of the cells is named as "cell chirality".
+Here, we mathematically evaluated the causal relationship between the cell chirality and hindgut rotation.
+We developed a new live-imaging procedure to analyze the cell chirality and subsequent rotation of the hindgut, which provide an opportunity to test the cause and effect relationship between them.
+Our study validated that the enantiomorphic states of cell chirality causally defines the LR asymmetry of the hindgut rotation.
 
 \clearpage
 
