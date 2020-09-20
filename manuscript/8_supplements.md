@@ -1,13 +1,13 @@
 # Supplementary Material {label="S"}
 
-|                 | $t_{8}$-value | *p*-value |
+|                 | $t_{8}$-value | $p$-value |
 |----------------:|:--------------|:----------|
 |       Intercept | -4.042        | 0.003723  |
 | Chirality Index | -5.992        | 0.000326  |
 
 :Factors affecting the variation in the laterality score of the embryonic hindgut with various genotype ([@fig:fig2]). {#tbl:tbl1}
 
-|                      | $t_{13}$-value | *p*-value |
+|                      | $t_{13}$-value | $p$-value |
 |---------------------:|:---------------|:----------|
 |            Intercept | -1.149         | 0.27109   |
 | Live Chirality Index | -3.256         | 0.00625   |
