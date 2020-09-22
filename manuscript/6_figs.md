@@ -47,11 +47,12 @@ The live image of the epithelial cell boundary visualized by *UAS-myr::GFP* driv
 The chirality index of the live cell was calculated as described above.
 After 3 hours of incubation, the laterality score was evaluated.
 \(B) Box plot of the live chirality index of the hindgut in wild-type and *emc* mutant.
+"$N$" indicates the number of total embryos analyzed.
 \(C) Graph showing the correlation between live cell chirality and the laterality score of the hindgut in *emc* mutant.
 [Solid line indicates the best fitted logistic model]{.insertion author="Tomoki Ishibashi" date="2020-09-20T01:05:38Z"}.
 Dotted line indicates the logistic model used in [@fig:fig2].
 The coefficient of determination of each model is shown as "$R^{2}$".
-"N" indicates the number of total embryos analyzed.
+"$N$" indicates the number of total embryos analyzed.
 :::
 
 \clearpage
