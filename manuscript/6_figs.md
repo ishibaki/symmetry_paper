@@ -1,20 +1,22 @@
 # Figures and Tables {label=""}
 
 ::: {custom-style="First Paragraph"}
-![The *Drosophila* embryonic hindgut rotates $90^\circ$ counterclockwise.](../figs/fig1.png){#fig:fig1}
+![The wild-type *Drosophila* embryonic hindgut rotates $90^\circ$ counter-clockwise.](../figs/fig1.png){#fig:fig1}
 :::
 
 ::: {custom-style="First Paragraph"}
-\(A) Rotation of the *Drosophila* embryonic hindgut (orange) visualized by *UAS-myr-GFP* (cell membrane) driven by *byn-Gal4*.
-In the wild-type, the hindgut rotates counter-clockwise and it exhibits a rightward pointing hook shape.
-\(B) Before rotation (orange), the apical boundaries of the wild-type hindgut epithelial cells tend to slant to the left, the normal cell chirality.
-After rotation (gray), the cell chirality disappears.
-\(C) Schematic summarizing the procedure used to calculate the chirality index.
+\(A) THe *Drosophila* embryonic hindgut (orange) visualized by the expression of *UAS-myr-GFP*, encoding a cell-membrane marker, driven by *byn-Gal4*.
+The hindgut has bilaterally symmetric structure whose anterior part curves ventrally at early stage 12.
+In the wild-type, the hindgut subsequently rotates counter-clockwise and this rotation consequently makes this organ curved to the right side.
+At the end of stage 13, the hindgut exhibits a rightward pointing hook shape.
+\(B) Before rotation (orange), the apical cell-boundaries of the wild-type hindgut epithelial cells tend to slant to the left, which is defined as the dextral cell chirality.
+After rotation (gray), the cell chirality disappears so that these cells become LR symmetric.
+\(C) Schematic summarizing the procedure used to calculate the cell chirality index.
 The angle between each boundary and the anterior-posterior (AP) axis of the hindgut is determined.
 LR represents the left-right axis of the hindgut.
 Each boundary is classified as a right-tilted boundary (orange) or left-tilted boundary (turquoise).
-The numbers of right-tilted ($N_{R}$) and left-tilted ($N_{L}$) boundaries were counted, and the chirality index was calculated using the formula shown at the right side of the figure.
-Scale bars of images in A are 0.25 $\mu$m.
+The numbers of right-tilted ($N_{R}$) and left-tilted ($N_{L}$) boundaries were counted, and the cell chirality index was calculated using the formula shown at the right side of the figure.
+Scale bars in A are 0.25 $\mu$m.
 :::
 
 \newpage
