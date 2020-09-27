@@ -22,7 +22,7 @@ The mean of the laterality score was calculated in embryos with each genotype ([
 Besides the eight genetic conditions analyzed in the previous study, we examined two additions to study the correlation between the mean cell chirality index and the mean of the laterality score ([@fig:fig2]B) [@Ishibashi2019].
 As the newly added conditions, double mutant embryos of *da^10^* and *emc^AP6^* (*da^10^; emc^AP6^*) were analyzed ([@fig:fig2]B).
 Our previous analysis revealed that *da* mutation suppresses the LR defects of the hindgut in *emc* mutant, because *emc* mutant induces the LR defects through the hyper-activation of *da* [@Ishibashi2019].
-Additionally, embryos overexpressing *UAS-MyoIC*, which has the sinistral activity of the LR asymmetric development, in the hindgut epithelium were examined ([@fig:fig2]B) [@Hozumi2008; @Okumura2015].
+Additionally, embryos overexpressing *UAS-MyoIC*, which has the sinistral activity of the LR asymmetric development, in the hindgut epithelium were examined ([@fig:fig2]B) [@Hozumi2008; @Okumura2015; @Lebreton2018].
 
 We fitted the logistic model (dotted line) with the chirality index as an explanatory valuable and the mean of the laterality score as an objective variable ([@fig:fig2]B).
 The chirality index significantly explained the mean of laterality score

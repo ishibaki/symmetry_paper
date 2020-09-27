@@ -2,7 +2,7 @@
 
 In previous studies, it was suggested that the enantiomorphic stats of cell chirality in the hindgut epithelium determine the directionality of the hindgut rotation.
 Mainly, dextral and sinistral cell chirality on average lead to the counter-clockwise and clockwise rotation of the hindgut, respectively.
-This postulation was firstly supported by the observations that the mean states of cell chirality and the LR directions of the hindgut rotation correlate to each other invarious mutants [@Taniguchi2011; @Ishibashi2019].
+This postulation was firstly supported by the observations that the mean states of cell chirality and the LR directions of the hindgut rotation correlate to each other invarious mutants [@Taniguchi2011; @Ishibashi2019; @Inaki2018].
 For example, in *MyoID* mutants where cell chirality become sinistral, their hindgut rorates clockwise, where wild-type embryos demonstrate dextral cell chirality and the counter-clockwise rotation of the hindgut [@Taniguchi2011].
 Additionally, the cell chirality vanishes on average in *Drosophila E-cadherin* or *emc* mutants in which the LR-directions of hindgut rotation are randomized or the hindgut remains LR symmetric [@Taniguchi2011; @Ishibashi2019].
 Secondary, computer simulation employing vertex models suggested that the enantiomorphic stats of cell chirality initially intdoruced into the model difines the LR direction of the model-gut tube rotation and successively drives the tube rotation to the direction determined at the outset [@Taniguchi2011].
