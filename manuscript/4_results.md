@@ -7,7 +7,7 @@ Then, it gradually rotates counterclockwise 90 degrees as a view from the poster
 Consequently, this rotation makes the hindgut curved towards the right at the end of stage 13 ([@fig:fig1]A, most right panel).
 The hindgut epithelium has a typical apical-basal polarity, and the inner surface of the hindgut corresponds to the apical surface.
 Before the rotation of the hindgut, cell chirality of the hindgut epithelial cells is detected in the shape of their apical surface, as the frequency of cell boundaries that slant left or right with respect to the anterior-posterior axis of the hindgut tube shows deviations according to the genetic conditions[@Ishibashi2019].
-For example, cell-boundaries slanting to the left appeared more often than that of the right in wild type ([@fig:fig1]B, left).
+For example, cell-boundaries slanting to the left appeared more often than that of the right in wild-type ([@fig:fig1]B, left).
 However, such LR bias found in the angle of cell boundaries are dissolved after the completion of the hindgut rotation ([@fig:fig1]B, right).
 To quantitatively analyze the cell chirality, "chirality index" was formulated previously[@Ishibashi2019].
 The apical cell boundaries were visualized, and the origin of two-dimensional coordinate corresponding the anterior-posterior and left-right axes are placed on a vertex ([@fig:fig1]C most left).

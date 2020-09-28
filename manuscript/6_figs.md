@@ -1,7 +1,10 @@
 # Figures {label=""}
 
+::: {custom-style="Abstract"}
 ![The wild-type *Drosophila* embryonic hindgut rotates $90^\circ$ counter-clockwise.](../figs/fig1.png){#fig:fig1}
+:::
 
+::: {custom-style="Abstract"}
 \(A) The *Drosophila* embryonic hindgut (orange) visualized by the expression of *UAS-myr-GFP*, encoding a cell-membrane marker, driven by *byn-Gal4*.
 The hindgut has bilaterally symmetric structure whose anterior part curves ventrally at early stage 12.
 In the wild-type, the hindgut subsequently rotates counter-clockwise and this rotation consequently makes this organ curved to the right side.
@@ -15,11 +18,15 @@ LR represents the left-right axis of the hindgut.
 Each boundary is classified as a right-tilted boundary (orange) or left-tilted boundary (turquoise).
 The numbers of right-tilted ($N_{R}$) and left-tilted ($N_{L}$) boundaries were counted, and the cell chirality index was calculated using the formula shown at the right side of the figure.
 Scale bars in A are 0.25 $\mu$m.
+:::
 
 \newpage
 
+::: {custom-style="Abstract"}
 ![Cell chirality significantly fits to the hindgut LR asymmetry of the embryos with various genotype](../figs/fig2_2.png){#fig:fig2}
+:::
 
+::: {custom-style="Abstract"}
 \(A) Schematic showing criteria for the laterality score.
 The hindgut that rotates counter-clockwise (upper) or clockwise (bottom) was scored as 1 or 0, respectively.
 The hindgut that does not rotate (middle) was scored as 0.5.
@@ -31,11 +38,15 @@ The mean values (circles) and standard errors (colored lines) are shown.]{.inser
 Dotted line indicates the logistic model that most fit for the data.
 The coefficient of determination is shown as "$R^{2}$".
 <!-- The *p*-value for the logistic model compared with the null model is shown. -->
+:::
 
 \newpage
 
+::: {custom-style="Abstract"}
 ![Live cell chirality predicts the rotational direction of the hindgut](../figs/fig3_2.png){#fig:fig3}
+:::
 
+::: {custom-style="Abstract"}
 \(A) Schematic showing the procedure for calculating the live chirality index and evaluation of the hindgut laterality.
 The live image of the epithelial cell boundary visualized by *UAS-myr::GFP* driven by *byn-Gal4* is shown.
 The chirality index of the live cell was calculated as described above.
@@ -46,6 +57,7 @@ After 3 hours of incubation, the laterality score was evaluated.
 Solid line indicates the best fitted logistic model.
 Dotted line indicates the logistic model used in [@fig:fig2].
 The coefficient of determination of each model is shown as "$R^{2}$".
+:::
 "$N$" indicates the number of total embryos analyzed.
 
 \clearpage
