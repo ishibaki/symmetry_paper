@@ -1,4 +1,4 @@
-# Supplementary Material {label="S"}
+# Supplementary Materials {label="S"}
 
 |                 | $t_{8}$-value | $p$-value |
 |----------------:|:--------------|:----------|
@@ -36,7 +36,7 @@
 4_results.md
 5_discussion.md
 6_figs.md
-7_references.md
-8_supplements.md
-9_acknowledgements.md
+7_supplements.md
+8_acknowledgements.md
+9_references.md
 -->

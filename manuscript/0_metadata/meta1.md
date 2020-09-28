@@ -1,7 +1,8 @@
 ---
 title: Cell chirality determines the left- or right-handed rotational directions of embryonic hindgut in *Drosophila*
-author: Tomoki Ishibashi, Mikiko Inaki, Kenji Matsuno
+author: Tomoki Ishibashi, Mikiko Inaki, Kenji Matsuno^\*^
 keywords: [Drosophila, cell chirality, left-right asymmetric development]
+
 titlepage: true
 toc-own-page: true
 fontsize: 14pt
@@ -20,24 +21,29 @@ chaptersDepth: 1
 chapDelim: ""
 titleDelim: ""
 figureTitle: "Figure"
-figureTemplate: '**$$figureTitle$$ $$i$$**$$titleDelim$$ $$t$$'
+figureTemplate: '**$$figureTitle$$ $$i$$.**$$titleDelim$$ $$t$$'
 tableTitle: "Table"
-tableTemplate: '**$$tableTitle$$ $$i$$**$$titleDelim$$ $$t$$'
+tableTemplate: '**$$tableTitle$$ $$i$$.**$$titleDelim$$ $$t$$'
 listingTitle: "Code"
-listingTemplate: '**$$listingTitle$$ $$i$$**$$titleDelim$$ $$t$$'
+listingTemplate: '**$$listingTitle$$ $$i$$.**$$titleDelim$$ $$t$$'
 figPrefix:
-- "Fig."
-- "Figs."
+- "Figure "
+- "Figure "
 eqnPrefix:
 - "Eq."
 - "Eqs."
 tblPrefix:
-- "Table"
-- "Tables"
+- "Table "
+- "Tables "
 lstPrefix:
 - "Code"
 - "Codes"
 abstract: |
+ **Abstract\:** max 200 words
  
+ これまでは、パラレル関係とモデル。
+ 
+ 相関を実証
+
 ...
 

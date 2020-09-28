@@ -23,14 +23,14 @@ reader = -f markdown\
 
 # general arguments
 writer = --bibliography ~/.pandoc/library.bib\
-		 --csl ~/.pandoc/apa-2.csl\
+		 --csl ~/.pandoc/nature.csl\
 		 -V papersize=a4\
 		 --filter pandoc-crossref\
 		 -N\
 
 # docx specific arguments
 docx = -t docx\
-	   --reference-doc ~/.pandoc/reference_matsuuralab.docx\
+	   --reference-doc ../reference_symmetry.docx\
 	   -V author=""\
 	   --lua-filter /usr/local/bin/pagebreak.lua\
 	   # --filter pandoc-docx-pagebreakpy\
