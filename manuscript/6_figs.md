@@ -57,8 +57,8 @@ After 3 hours of incubation, the laterality score was evaluated.
 Solid line indicates the best fitted logistic model.
 Dotted line indicates the logistic model used in [@fig:fig2].
 The coefficient of determination of each model is shown as "$R^{2}$".
-:::
 "$N$" indicates the number of total embryos analyzed.
+:::
 
 \clearpage
 
