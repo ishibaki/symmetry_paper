@@ -6,8 +6,7 @@ The mechanisms of LR asymmetric development have been well studied in vertebrate
 For example, in mice, motile cilia locating in the node rotates clockwise and induces a leftward flow of extra-embryonic fluid, which first breaks the LR symmetry[@Nonaka1998].
 This phenomenon is called as "nodal flow" that subsequently induces the left-side-specific expression of genes, such as *Nodal* and *Lefty*, required for the LR asymmetric development of organs[@Nonaka2002; @Nonaka1998; @Takeda1999].
 The mechanisms of the LR symmetry breaking are evolutionarily diverged even among vertebrates.
-For example, in reptile and chick, the nodal flow-independent mechanisms of the LR-symmetry breaking were reported[@Kajikawa2020; @Tabin2005] [Tabinの引用あってますか?]{.comment-start author="Tomoki Ishibashi"
-date="2020-09-19T23:35:00Z"}[]{.comment-end}.
+For example, in reptile and chick, the nodal flow-independent mechanisms of the LR-symmetry breaking were reported[@Kajikawa2020; @Tabin2005].
 In invertebrates, the chirality of cells (cell chirality) contributes to their LR-asymmetric development[@Inaki2016; @Inaki2018a].
 An object, such as a cell, is chiral, if it cannot be superimposed onto its mirror image.
 In snails and nematodes, the cell chirality of blastomeres at the initial stage of cleavage determines the subsequent LR-asymmetric arrangement of them, which consequently directs the LR asymmetry of their whole bodies[@Kuroda2009; @Naganathan2014].

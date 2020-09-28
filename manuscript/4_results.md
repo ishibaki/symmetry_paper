@@ -1,6 +1,6 @@
 # Results
 
-## A logistic model significantly explained the correlation between the enantiomorphic stats of cell chirality and the LR directionality of hindgut rotation
+## A logistic model significantly explained the correlation between the enantiomorphic states of cell chirality and the LR directionality of hindgut rotation
 
 The *Drosophila* hindgut is first formed as a bilaterally symmetric invagination whose anterior part curves ventrally at early stage 12 ([@fig:fig1]A most left panel)[@Hozumi2006].
 Then, it gradually rotates counterclockwise 90 degrees as a view from the posterior ([@fig:fig1]A, middle two panels).
@@ -16,7 +16,7 @@ Then, the total numbers of Right and Left were represented by N-Right ($N_{R}$) 
 The average values of cell chirality index obtained from embryos (numbers are indicated in [@fig:fig2]B as $N_{x}$) with each genotype was referred to as "mean cell chirality index."
 
 We previously showed that the mean cell chirality index strongly correlated with the ratio of the normal hindgut laterality in embryos with various genotype[@Ishibashi2019].
-To investigate a causal association between the enantiomorphic stats of cell chirality and the LR directions of the hindgut rotation, we here analyzed the mathematical characteristics of the correlation between the mean cell chirality index and the rotational direction of the hindgut.
+To investigate a causal association between the enantiomorphic states of cell chirality and the LR directions of the hindgut rotation, we here analyzed the mathematical characteristics of the correlation between the mean cell chirality index and the rotational direction of the hindgut.
 We scored the rotational direction of the hindgut in each embryo as a "laterality score", in which the hindgut of normal LR asymmetry, non-laterality (bilateral symmetry), and inverse LR asymmetry was scored 1, 0.5, and 0, respectively ([@fig:fig2]A).
 The mean of the laterality score was calculated in embryos with each genotype ([@fig:fig2]B, left).
 Besides the eight genetic conditions analyzed in the previous study, we examined two additions to study the correlation between the mean cell chirality index and the mean of the laterality score ([@fig:fig2]B)[@Ishibashi2019].
@@ -62,7 +62,7 @@ Importantly, the logistic regression model (dotted line) obtained the fixed embr
 (Quasibinomial GLM, likelihood ratio test, $\chi^{2}_{1} = 4.327$, $p < 0.05$),<!-- p = 0.0220359 -->
 and it explained 72.5% of the total variation in the rotational direction of *emc^AP6^* mutant hindgut ([@tbl:tbl3]).
 These results suggested that the live cell chirality index directs the rotational direction of the hindgut in each individual embryo.
-Based on these findings, we concluded that the enantiomorphic stats of cell chirality determines the LR asymmetry of the hindgut rotation.
+Based on these findings, we concluded that the enantiomorphic states of cell chirality determines the LR asymmetry of the hindgut rotation.
 
 <!--
 0_metadata/meta0.md
