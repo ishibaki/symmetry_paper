@@ -1,14 +1,9 @@
-# Abstract
+::: {custom-style="Abstract"}
+**Keywords:**
+Cell chirality; Left-Right asymmetry
+:::
 
-これまでは、パラレル関係とモデル。
-
-相関を実証
-
-\clearpage
-
-\mbox{}
-
-\newpage
+---
 
 <!--
 0_metadata/meta0.md
@@ -19,7 +14,7 @@
 4_results.md
 5_discussion.md
 6_figs.md
-7_references.md
-8_supplements.md
-9_acknowledgements.md
+7_supplements.md
+8_acknowledgements.md
+9_references.md
 -->
