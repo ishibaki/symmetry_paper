@@ -16,18 +16,18 @@ and *UAS-myr::GFP*[@Pfeiffer2012].
 The following *Gal4*-driver lines were used:
 *NP2432* (Kyoto DGRC #104201)[@Hayashi2002] for the analysis of fixed cell chirality index,
 and *byn-Gal4*[@Hozumi2006] for the analysis of live cell chirality index.
-Mutations on the second chromosome and third chromosome were balanced with *CyO, P{en1}wg^en11^* and *TM3, P{GAL4-twi.G}2.3, P{UAS-2xEGFP}AH2.3, Sb^1^ Ser^1^*, respectively.
+Mutations on the second chromosome and third chromosome were balanced with *CyO, P{en1}wg^en11^*, and *TM3, P{GAL4-twi.G}2.3, P{UAS-2xEGFP}AH2.3, Sb^1^ Ser^1^*, respectively.
 All genetic crosses were carried out at $25^{\circ} \mathrm{C}$ on a standard *Drosophila* culture medium.
 
 ## Live Imaging and laterality score
 
 To visualize the cell membrane of the hindgut epithelium, the expression of *UAS-myr::GFP* was driven by *byn-Gal4* using GAL4/UAS system[@Brand1993].
 *Drosophila* embryos were dechorionated and placed on grape juice agar plates.
-Embryos of the appropriate genotypes were selected at early stage 12 under a fluorescence microscopy and mounted dorsal side up on double sticky tape on slide glasses.
+Embryos of the appropriate genotypes were selected at early stage 12 under a fluorescence microscope and mounted dorsal side up on double sticky tape on slide glasses.
 These embryos were overlaid by oxygen-permeable Halocarbon oil 27 (Sigma, USA) and a coverslip with spacers of 0.17-0.25 mm-thick coverslips.
 The live images of apical cell-boundaries in hindgut epithelium were obtained with a scanning laser confocal microscope, LSM 880 (Carl Zeiss, Germany) before the onset of the hindgut rotation.
 After the imaging, the embryos were continuously cultured at $25^{\circ} \mathrm{C}$ for 3 hours and the rotational directions of the hindgut were evaluated.
-As laterality score, the hindgut rotating to the counter-clockwise and clockwise directions was scored 1 and 0, respectively.
+As a laterality score, the hindgut rotating to the counter-clockwise and clockwise directions was scored 1 and 0, respectively.
 When the hindgut did not rotate, the laterality score was marked as 0.5.
 
 ## Analysis of cell chirality index

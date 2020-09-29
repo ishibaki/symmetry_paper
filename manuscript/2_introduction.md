@@ -1,14 +1,14 @@
 # Introduction
 
 Left-right (LR) asymmetry is often integrated into the basic body plan in bilaterians.
-For example, internal organs of bilaterians are often LR asymmetric in their morphology andd functions.
+For example, internal organs of bilaterians are often LR asymmetric in their morphology and functions.
 The mechanisms of LR asymmetric development have been well studied in vertebrates[@Blum2018; @Hirokawa2006; @Nakamura2012; @Levin2005; @Yoshiba2014].
 For example, in mice, motile cilia locating in the node rotates clockwise and induces a leftward flow of extra-embryonic fluid, which first breaks the LR symmetry[@Nonaka1998].
 This phenomenon is called as "nodal flow" that subsequently induces the left-side-specific expression of genes, such as *Nodal* and *Lefty*, required for the LR asymmetric development of organs[@Nonaka2002; @Nonaka1998; @Takeda1999].
 The mechanisms of the LR symmetry breaking are evolutionarily diverged even among vertebrates.
 For example, in reptile and chick, the nodal flow-independent mechanisms of the LR-symmetry breaking were reported[@Kajikawa2020; @Tabin2005].
 In invertebrates, the chirality of cells (cell chirality) contributes to their LR-asymmetric development[@Inaki2016; @Inaki2018a].
-An object, such as a cell, is chiral, if it cannot be superimposed onto its mirror image.
+An object, such as a cell, is chiral if it cannot be superimposed onto its mirror image.
 In snails and nematodes, the cell chirality of blastomeres at the initial stage of cleavage determines the subsequent LR-asymmetric arrangement of them, which consequently directs the LR asymmetry of their whole bodies[@Kuroda2009; @Naganathan2014].
 
 *Drosophila* has various organs showing stereotypic LR asymmetry, which include, for example, the embryonic gut, male genitalia, and brain[@Hayashi2001; @Hozumi2006; @Ligoxygakis2001; @Pascual2004; @Speder2006; @Maeda2007; @Nakamura2013; @Taniguchi2007; @Kuroda2012].
@@ -20,8 +20,8 @@ Considering the apical-basal polarity of the hindgut epithelial cells, the three
 During the rotation, the cell chirality eventually dissolved so that the cell shape becomes bilaterally symmetric after the rotation of the hindgut[@Taniguchi2011].
 Cooperative studies between computer simulations involving vertex models and image analysis of the hindgut epitheelium suggested that the dissolution of the cell chirality induces "cell sliding," which leads to the LR-asymmetric rotation of the hindgut epithelial tube[@Taniguchi2011; @Inaki2018].
 Contributions of cell chirality to the LR-asymmetric development were reported in other LR asymmetric organs in *Drosophila*, suggesting that cell chirality has general roles in the LR-asymmetric development of this species[@Sato2015; @Speder2006; @Coutelis2013; @Gonzalez-Morales2015].
-Not only in snails, nematodes, and *Drosophila*, but also in Chordata, such as chicken and Larvaceans, the cell chirality was observed and suggested to be involved in the LR asymmetric development of these species[@Ray2018; @Onuma2020].
-In addition to the cell chirality observed *in vivo* during development, various cultured cells from *Dictyostelium* to human demonstrate intrinsic chirality in their structure and movement[@Chen2012; @Tamada2010; @Tee2015; @Wan2011; @Xu2007].
+Not only in snails, nematodes, and *Drosophila* but also in Chordata, such as chicken and Larvaceans, the cell chirality was observed and suggested to be involved in the LR asymmetric development of these species[@Ray2018; @Onuma2020].
+In addition to the cell chirality observed *in vivo* during development, various cultured cells from *Dictyostelium* to humans demonstrate intrinsic chirality in their structure and movement[@Chen2012; @Tamada2010; @Tee2015; @Wan2011; @Xu2007].
 Thus cell chirality is a widely observed property shared among eukaryotic cells.
 
 Using *Drosophila* as a model system, genetic mechanisms underlying the formation of cell chirality has been studied[@Ishibashi2019; @Taniguchi2011; @Gonzalez-Morales2015].

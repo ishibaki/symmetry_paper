@@ -40,7 +40,7 @@ lstPrefix:
 - "Codes"
 abstract: |
  **Abstract\:**
- In the left-right (LR) asymmetric development of invertebrates, chirality of cells (cell chirality) plays crucial roles.
+ In the left-right (LR) asymmetric development of invertebrates, the chirality of cells (cell chirality) plays crucial roles.
  Left- or right-handed structure of cells consequently directs the morphogenesis with corresponding LR asymmetry.
  In *Drosophila*, it has been suggested that cell chirality drives the LR-asymmetric development of various organs including the embryonic hindgut.
  However, this hypothesis is supported only by apparent concordance between these two events and by computer simulations connecting them[@Taniguchi2011; @Inaki2018; @Hatori2014; @Sato2015; @Lebreton2018].
