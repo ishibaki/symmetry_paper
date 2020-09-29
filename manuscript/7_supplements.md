@@ -12,7 +12,7 @@
 |            Intercept | -1.149         | 0.27109   |
 | Live Chirality Index | -3.256         | 0.00625   |
 
-:Factors affecting the variation in the the rotational direction of the hindgut in *emc^AP6^* ([@fig:fig3]). {#tbl:tbl2}
+:Factors affecting the variation in the rotational direction of the hindgut in *emc^AP6^* ([@fig:fig3]). {#tbl:tbl2}
 
 |                              | Model                                               | $R^{2}$   |
 |-----------------------------:|:----------------------------------------------------|:----------|

@@ -5,8 +5,8 @@
 :::
 
 ::: {custom-style="Abstract"}
-\(A) The *Drosophila* embryonic hindgut (orange) visualized by the expression of *UAS-myr-GFP*, encoding a cell-membrane marker, driven by *byn-Gal4*.
-The hindgut has bilaterally symmetric structure whose anterior part curves ventrally at early stage 12.
+\(A) The *Drosophila* embryonic hindgut (orange) is visualized by the expression of *UAS-myr-GFP*, encoding a cell-membrane marker, driven by *byn-Gal4*.
+The hindgut has a bilaterally symmetric structure whose anterior part curves ventrally at early stage 12.
 In the wild-type, the hindgut subsequently rotates counter-clockwise and this rotation consequently makes this organ curved to the right side.
 At the end of stage 13, the hindgut exhibits a rightward pointing hook shape.
 "L" and "R" indicate left and right, respectively.
@@ -23,19 +23,19 @@ Scale bars in A are 0.25 $\mu$m.
 \newpage
 
 ::: {custom-style="Abstract"}
-![Cell chirality significantly fits to the hindgut LR asymmetry of the embryos with various genotype](../figs/fig2_2.png){#fig:fig2}
+![Cell chirality significantly fits to the hindgut LR asymmetry of the embryos with various genotypes](../figs/fig2_2.png){#fig:fig2}
 :::
 
 ::: {custom-style="Abstract"}
 \(A) Typical examples of the hindgut (shown in orange) demonstrating normal LR asymmetry (Normal), bilateral symmetry (non-lateral), and inversed LR asymmetryr (Inverse), which was scored as 1, 0.5, and 0, respectively.
 \(B) Graph showing the correlation between the mean cell chirality and the mean value of the laterality score.
-Some of the data was adopted from our previous paper[@Ishibashi2019].
+Some of the data were adopted from our previous paper[@Ishibashi2019].
 The genotypes are shown in the right panel.
-[$N_x$ and $N_y$ indicate the numbers of embryos used for the analyses of the mean chirality index and the mean of laterality score, respectively.
+$N_x$ and $N_y$ indicate the numbers of embryos used for the analyses of the mean chirality index and the mean of laterality score, respectively.
 The mean values (circles) and standard errors (colored lines) are shown.
-Dotted line indicates the logistic model that most fit for the data.
+The dotted line indicates the logistic model that most fit for the data.
 The coefficient of determination is shown as "$R^{2}$".
-The *p*-value of two-tailed t-test was less than $0.001$.
+The *p*-value of the two-tailed t-test was less than $0.001$.
 :::
 
 \newpage
@@ -45,16 +45,16 @@ The *p*-value of two-tailed t-test was less than $0.001$.
 :::
 
 ::: {custom-style="Abstract"}
-\(A) Typical images of hindgut in live embryos.
+\(A) Typical images of the hindgut in live embryos.
 The live images of cell-boundaries visualized by *UAS-myr::GFP* driven by *byn-Gal4* in the hindgut epithelium is shown.
-At early stage 12, live cell chirality index of the live cell was calculated based on high magnification image surrounded by orange square (left panel).
+At early stage 12, the live cell chirality index of the live cell was calculated based on the high magnification image surrounded by the orange square (left panel).
 After 3 hours of incubation, the laterality score was evaluated as normal LR asymmetry, bilateral symmetry, and inversed LR asymmetry were 1, 0.5, and 0, respectively.
 \(B) Box plot of the live chirality index of the hindgut in wild-type and *emc* mutant embryos.
 "$N$" indicates the number of total embryos analyzed.
-The *p*-value of two-tailed t-test is shown.
+The *p*-value of the two-tailed t-test is shown.
 \(C) Graph showing the correlation between live cell chirality and the laterality score of the hindgut in *emc* mutant.
-Solid line indicates the best fitted logistic model.
-Dotted line indicates the logistic model obtained in [@fig:fig2].
+The solid line indicates the best fitted logistic model.
+The dotted line indicates the logistic model obtained in [@fig:fig2].
 The coefficient of determination of each model is shown as "$R^{2}$".
 "$N$" indicates the number of total embryos analyzed.
 :::
