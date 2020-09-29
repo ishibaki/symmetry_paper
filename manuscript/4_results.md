@@ -26,7 +26,7 @@ Additionally, embryos overexpressing *UAS-MyoIC*, which has the sinistral activi
 
 We fitted the logistic model (dotted line) with the chirality index as an explanatory valuable and the mean of the laterality score as an objective variable ([@fig:fig2]B).
 The chirality index significantly explained the mean of laterality score
-(Quasibinomial generalized linear model (GLM), two-tailed t-test) ([@fig:fig2] B, [@tbl:tbl1]).
+(Quasibinomial generalized linear model (GLM), two-tailed t-test) ([@fig:fig2]B, [@tbl:tbl1]).
 <!-- Intercept: t(8) = -4.042, p = 0.003723
 Chirality Index: t(8) = -5.992, p = 0.000326 -->
 

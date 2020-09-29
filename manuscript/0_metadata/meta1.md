@@ -1,6 +1,6 @@
 ---
-title: Cell chirality determines the left- or right-handed rotational directions of embryonic hindgut in *Drosophila*
-author: Tomoki Ishibashi, Mikiko Inaki, Kenji Matsuno^\*^
+title: Statistical validation verifies that enantiomorphic states of cell chirality are determinant dictating the left- or right-handed direction of the hindgut rotation in *Drosophila*
+author: Tomoki Ishibashi ^1^, Mikiko Inaki ^2^, Kenji Matsuno^2,\*^
 keywords: [Drosophila, cell chirality, left-right asymmetric development]
 
 titlepage: true
@@ -39,11 +39,15 @@ lstPrefix:
 - "Code"
 - "Codes"
 abstract: |
- **Abstract\:** max 200 words
- 
- これまでは、パラレル関係とモデル。
- 
- 相関を実証
-
+ **Abstract\:**
+ In the left-right (LR) asymmetric development of invertebrates, chirality of cells (cell chirality) plays crucial roles.
+ Left- or right-handed structure of cells consequently directs the morphogenesis with corresponding LR asymmetry.
+ In *Drosophila*, it has been suggested that cell chirality drives the LR-asymmetric development of various organs including the embryonic hindgut.
+ However, this hypothesis is supported only by apparent concordance between these two events and by computer simulations connecting them[@Taniguchi2011; @Inaki2018; @Hatori2014; @Sato2015; @Lebreton2018].
+ Therefore, here, we mathematically evaluated the causal relationship between the cell chirality of the hindgut epithelial cells and the LR-directional rotation of the hindgut, which was postulated in previous studies.
+ Our logistic model obtained from various genetic backgrounds significantly explained the correlation between the enantiomorphic states of cell chirality and the LR directionality of hindgut rotation.
+ This model also significantly explained the correlation between cell chirality stochastically formed in advance in each individual living embryo and the LR-directionality of the following rotation, suggesting the irrelevance of modes how cell chirality is formed.
+ This analysis also showed that the cell chirality is not only sufficient but also required for the LR-directional rotation.
+ Our study validated that the enantiomorphic states of cell chirality causally defines the LR asymmetry of the hindgut rotation.
 ...
 

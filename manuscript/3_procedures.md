@@ -2,8 +2,6 @@
 
 ## Fly lines
 
-引用の記入方法に注意
-
 *Canton-S* was used as wild-type.
 The following mutants were used:
 *emc^AP6^*, an amorphic allele[@Ellis1994] (Bloomington #36544);

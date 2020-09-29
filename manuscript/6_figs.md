@@ -27,17 +27,15 @@ Scale bars in A are 0.25 $\mu$m.
 :::
 
 ::: {custom-style="Abstract"}
-\(A) Schematic showing criteria for the laterality score.
-The hindgut that rotates counter-clockwise (upper) or clockwise (bottom) was scored as 1 or 0, respectively.
-The hindgut that does not rotate (middle) was scored as 0.5.
-\(B) Graph showing the correlation between cell chirality and the mean value of the laterality score.
-The data in our previous paper [@Ishibashi2019] was used for this analysis.
+\(A) Typical examples of the hindgut (shown in orange) demonstrating normal LR asymmetry (Normal), bilateral symmetry (non-lateral), and inversed LR asymmetryr (Inverse), which was scored as 1, 0.5, and 0, respectively.
+\(B) Graph showing the correlation between the mean cell chirality and the mean value of the laterality score.
+Some of the data was adopted from our previous paper[@Ishibashi2019].
 The genotypes are shown in the right panel.
-[$N_x$ and $N_y$ indicate the numbers of total embryos used for the analyses of the chirality index and the laterality score, respectively.
-The mean values (circles) and standard errors (colored lines) are shown.]{.insertion author="Tomoki Ishibashi" date="2020-09-24T16:53:13Z"}
+[$N_x$ and $N_y$ indicate the numbers of embryos used for the analyses of the mean chirality index and the mean of laterality score, respectively.
+The mean values (circles) and standard errors (colored lines) are shown.
 Dotted line indicates the logistic model that most fit for the data.
 The coefficient of determination is shown as "$R^{2}$".
-<!-- The *p*-value for the logistic model compared with the null model is shown. -->
+The *p*-value of two-tailed t-test was less than $0.001$.
 :::
 
 \newpage
@@ -47,15 +45,16 @@ The coefficient of determination is shown as "$R^{2}$".
 :::
 
 ::: {custom-style="Abstract"}
-\(A) Schematic showing the procedure for calculating the live chirality index and evaluation of the hindgut laterality.
-The live image of the epithelial cell boundary visualized by *UAS-myr::GFP* driven by *byn-Gal4* is shown.
-The chirality index of the live cell was calculated as described above.
-After 3 hours of incubation, the laterality score was evaluated.
-\(B) Box plot of the live chirality index of the hindgut in wild-type and *emc* mutant.
+\(A) Typical images of hindgut in live embryos.
+The live images of cell-boundaries visualized by *UAS-myr::GFP* driven by *byn-Gal4* in the hindgut epithelium is shown.
+At early stage 12, live cell chirality index of the live cell was calculated based on high magnification image surrounded by orange square (left panel).
+After 3 hours of incubation, the laterality score was evaluated as normal LR asymmetry, bilateral symmetry, and inversed LR asymmetry were 1, 0.5, and 0, respectively.
+\(B) Box plot of the live chirality index of the hindgut in wild-type and *emc* mutant embryos.
 "$N$" indicates the number of total embryos analyzed.
+The *p*-value of two-tailed t-test is shown.
 \(C) Graph showing the correlation between live cell chirality and the laterality score of the hindgut in *emc* mutant.
 Solid line indicates the best fitted logistic model.
-Dotted line indicates the logistic model used in [@fig:fig2].
+Dotted line indicates the logistic model obtained in [@fig:fig2].
 The coefficient of determination of each model is shown as "$R^{2}$".
 "$N$" indicates the number of total embryos analyzed.
 :::
